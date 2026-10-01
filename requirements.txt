@@ -1,0 +1,12 @@
+# Python 3.10+
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+seaborn
+tqdm
+fasttext
+openai
+anthropic
+google-genai
